@@ -31,6 +31,7 @@
 
 ### 📊 GitHub Stats
 ![Native-99's GitHub stats](https://github-readme-stats.vercel.app/api?username=native-99&show_icons=true&theme=tokyonight&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=native-99&show_icons=true&count_private=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=native-99&layout=compact&theme=tokyonight&count_private=true)
 
