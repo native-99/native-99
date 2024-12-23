@@ -1,13 +1,13 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [ Name] 👋
 
 ### 🚀 Software Engineer | 💻 Tech Enthusiast | 🌱 Lifelong Learner
 
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?native-99=yournative-99&show_icons=true&theme=tokyonight)
+![ GitHub stats](https://github-readme-stats.vercel.app/api?native-99=native-99&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?native-99=yournative-99&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?native-99=native-99&layout=compact&theme=tokyonight)
 
 ---
 
@@ -22,10 +22,10 @@
 ---
 
 ### 🌟 Highlight Projects
-- [**Project Name**](https://github.com/yournative-99/projectname)  
+- [**Project Name**](https://github.com/native-99/projectname)  
   *A brief description of what the project does and the technologies used.*
   
-- [**Another Project**](https://github.com/yournative-99/anotherproject)  
+- [**Another Project**](https://github.com/native-99/anotherproject)  
   *A brief description of what the project does and the technologies used.*
 
 ---
@@ -45,10 +45,10 @@
 ---
 
 ### 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourtwitter)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linkedin)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/twitter)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://portfolio.com)
 
 ---
 
-⭐️ *If you like my profile, consider starring my [repositories](https://github.com/yournative-99?tab=repositories)!*  
+⭐️ *If you like my profile, consider starring my [repositories](https://github.com/native-99?tab=repositories)!*  
