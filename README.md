@@ -5,9 +5,9 @@
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?native-99=yournative-99&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?native-99=yournative-99&layout=compact&theme=tokyonight)
 
 ---
 
@@ -22,10 +22,10 @@
 ---
 
 ### 🌟 Highlight Projects
-- [**Project Name**](https://github.com/yourusername/projectname)  
+- [**Project Name**](https://github.com/yournative-99/projectname)  
   *A brief description of what the project does and the technologies used.*
   
-- [**Another Project**](https://github.com/yourusername/anotherproject)  
+- [**Another Project**](https://github.com/yournative-99/anotherproject)  
   *A brief description of what the project does and the technologies used.*
 
 ---
@@ -51,4 +51,4 @@
 
 ---
 
-⭐️ *If you like my profile, consider starring my [repositories](https://github.com/yourusername?tab=repositories)!*  
+⭐️ *If you like my profile, consider starring my [repositories](https://github.com/yournative-99?tab=repositories)!*  
